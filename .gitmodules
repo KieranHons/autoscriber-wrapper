@@ -1,0 +1,6 @@
+[submodule "autoscriber-frontend"]
+	path = autoscriber-frontend
+	url = https://github.com/KieranHons/autoscriber-front-end.git
+[submodule "autoscriber-backend"]
+	path = autoscriber-backend
+	url = https://github.com/KieranHons/autoscriber-backend.git
