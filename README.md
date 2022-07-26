@@ -1,4 +1,18 @@
-### How to run
+# How to run
+
+### Clone the backend and frontend
+
+You'll need to clone the respective backend and front attached to this project.
+The urls can be found in the repo or copied from below:
+* Warning... You will have to delete the folders before cloning
+```
+$ git clone https://github.com/KieranHons/autoscriber-backend.git
+```
+```
+$ git clone https://github.com/KieranHons/autoscriber-frontend.git
+```
+### Once both repos are cloned
+
 You can either run the `run.sh` or run the following commands from this directory:
 
 ```
